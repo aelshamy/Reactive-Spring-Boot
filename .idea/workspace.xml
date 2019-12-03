@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64016b9b-39ed-4548-8443-2513a0a02ea3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/server/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="server" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="server" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1USbRGEkRZI3amIueK6WwLqLNDA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/client/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="Gradle.server [bootRun]">
+    <configuration name="server [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server (client)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.server [bootRun]" />
+      <item itemvalue="npm.Angular CLI Server (client)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.server [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64016b9b-39ed-4548-8443-2513a0a02ea3" name="Default Changelist" comment="" />
+      <created>1575352933505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575352933505</updated>
+      <workItem from="1575352934735" duration="8000" />
+      <workItem from="1575352951233" duration="194000" />
+      <workItem from="1575353159709" duration="140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="150" key="#Project_Structure" timestamp="1575352936109">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state x="440" y="150" key="#Project_Structure/0.22.1680.972@0.22.1680.972" timestamp="1575352936109" />
+    <state x="304" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575353255944">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state x="304" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1680.972@0.22.1680.972" timestamp="1575353255944" />
+    <state width="1638" height="233" key="GridCell.Tab.0.bottom" timestamp="1575353196594">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state width="1638" height="233" key="GridCell.Tab.0.bottom/0.22.1680.972@0.22.1680.972" timestamp="1575353196594" />
+    <state width="1638" height="233" key="GridCell.Tab.0.center" timestamp="1575353196593">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state width="1638" height="233" key="GridCell.Tab.0.center/0.22.1680.972@0.22.1680.972" timestamp="1575353196593" />
+    <state width="1638" height="233" key="GridCell.Tab.0.left" timestamp="1575353196593">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state width="1638" height="233" key="GridCell.Tab.0.left/0.22.1680.972@0.22.1680.972" timestamp="1575353196593" />
+    <state width="1638" height="233" key="GridCell.Tab.0.right" timestamp="1575353196594">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state width="1638" height="233" key="GridCell.Tab.0.right/0.22.1680.972@0.22.1680.972" timestamp="1575353196594" />
+    <state x="469" y="128" width="763" height="759" key="NewModule_or_Project.wizard" timestamp="1575353024740">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state x="469" y="128" width="763" height="759" key="NewModule_or_Project.wizard/0.22.1680.972@0.22.1680.972" timestamp="1575353024740" />
+  </component>
+</project>
