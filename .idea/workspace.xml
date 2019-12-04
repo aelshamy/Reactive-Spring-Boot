@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64016b9b-39ed-4548-8443-2513a0a02ea3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/server/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/nationwide/reactivespring/controller/ReservationResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/nationwide/reactivespring/controller/ReservationResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/nationwide/reactivespring/service/ReservationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/nationwide/reactivespring/service/ReservationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/main/java/com/nationwide/reactivespring/service/ReservationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/java/com/nationwide/reactivespring/service/ReservationServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +26,16 @@
         <task path="$PROJECT_DIR$/server">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="reactivespring" type="f1a62948:ProjectNode" />
+              </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="server" type="f1a62948:ProjectNode" />
@@ -59,12 +71,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/client/node_modules/protractor" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/client/node_modules/typescript/lib" />
   </component>
   <component name="RunManager" selected="Gradle.server [bootRun]">
     <configuration name="server [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -130,7 +148,9 @@
       <updated>1575352933505</updated>
       <workItem from="1575352934735" duration="8000" />
       <workItem from="1575352951233" duration="194000" />
-      <workItem from="1575353159709" duration="140000" />
+      <workItem from="1575353159709" duration="170000" />
+      <workItem from="1575353362990" duration="5000" />
+      <workItem from="1575353382122" duration="4176000" />
     </task>
     <servers />
   </component>
@@ -146,25 +166,45 @@
       <screen x="0" y="22" width="1680" height="972" />
     </state>
     <state x="304" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1680.972@0.22.1680.972" timestamp="1575353255944" />
-    <state width="1638" height="233" key="GridCell.Tab.0.bottom" timestamp="1575353196594">
+    <state x="653" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1575422118040">
       <screen x="0" y="22" width="1680" height="972" />
     </state>
-    <state width="1638" height="233" key="GridCell.Tab.0.bottom/0.22.1680.972@0.22.1680.972" timestamp="1575353196594" />
-    <state width="1638" height="233" key="GridCell.Tab.0.center" timestamp="1575353196593">
+    <state x="653" y="230" key="#com.intellij.ide.util.MemberChooser/0.22.1680.972/1680.22.1920.1058@0.22.1680.972" timestamp="1575422118040" />
+    <state x="684" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575422090418">
       <screen x="0" y="22" width="1680" height="972" />
     </state>
-    <state width="1638" height="233" key="GridCell.Tab.0.center/0.22.1680.972@0.22.1680.972" timestamp="1575353196593" />
-    <state width="1638" height="233" key="GridCell.Tab.0.left" timestamp="1575353196593">
+    <state x="684" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.22.1680.972/1680.22.1920.1058@0.22.1680.972" timestamp="1575422090418" />
+    <state width="1638" height="233" key="GridCell.Tab.0.bottom" timestamp="1575422916908">
       <screen x="0" y="22" width="1680" height="972" />
     </state>
-    <state width="1638" height="233" key="GridCell.Tab.0.left/0.22.1680.972@0.22.1680.972" timestamp="1575353196593" />
-    <state width="1638" height="233" key="GridCell.Tab.0.right" timestamp="1575353196594">
+    <state width="1638" height="233" key="GridCell.Tab.0.bottom/0.22.1680.972/1680.22.1920.1058@0.22.1680.972" timestamp="1575422916908" />
+    <state width="1638" height="233" key="GridCell.Tab.0.bottom/0.22.1680.972@0.22.1680.972" timestamp="1575419760387" />
+    <state width="1638" height="233" key="GridCell.Tab.0.center" timestamp="1575422916907">
       <screen x="0" y="22" width="1680" height="972" />
     </state>
-    <state width="1638" height="233" key="GridCell.Tab.0.right/0.22.1680.972@0.22.1680.972" timestamp="1575353196594" />
+    <state width="1638" height="233" key="GridCell.Tab.0.center/0.22.1680.972/1680.22.1920.1058@0.22.1680.972" timestamp="1575422916907" />
+    <state width="1638" height="233" key="GridCell.Tab.0.center/0.22.1680.972@0.22.1680.972" timestamp="1575419760386" />
+    <state width="1638" height="233" key="GridCell.Tab.0.left" timestamp="1575422916906">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state width="1638" height="233" key="GridCell.Tab.0.left/0.22.1680.972/1680.22.1920.1058@0.22.1680.972" timestamp="1575422916906" />
+    <state width="1638" height="233" key="GridCell.Tab.0.left/0.22.1680.972@0.22.1680.972" timestamp="1575419760386" />
+    <state width="1638" height="233" key="GridCell.Tab.0.right" timestamp="1575422916907">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state width="1638" height="233" key="GridCell.Tab.0.right/0.22.1680.972/1680.22.1920.1058@0.22.1680.972" timestamp="1575422916907" />
+    <state width="1638" height="233" key="GridCell.Tab.0.right/0.22.1680.972@0.22.1680.972" timestamp="1575419760386" />
     <state x="469" y="128" width="763" height="759" key="NewModule_or_Project.wizard" timestamp="1575353024740">
       <screen x="0" y="22" width="1680" height="972" />
     </state>
     <state x="469" y="128" width="763" height="759" key="NewModule_or_Project.wizard/0.22.1680.972@0.22.1680.972" timestamp="1575353024740" />
+    <state x="328" y="88" key="SettingsEditor" timestamp="1575419749541">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state x="328" y="88" key="SettingsEditor/0.22.1680.972@0.22.1680.972" timestamp="1575419749541" />
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup" timestamp="1575421270819">
+      <screen x="0" y="22" width="1680" height="972" />
+    </state>
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/0.22.1680.972/1680.22.1920.1058@0.22.1680.972" timestamp="1575421270819" />
   </component>
 </project>
